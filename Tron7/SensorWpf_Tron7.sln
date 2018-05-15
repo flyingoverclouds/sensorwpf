@@ -1,0 +1,56 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SensorTest", "SensorTest\SensorTest.csproj", "{72A4B667-D141-4A11-8EE2-0EE7F6C468BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SensorWpf", "SensorWpf\SensorWpf.csproj", "{8B715A1F-6720-47F9-AFC1-835E4839AEDD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TronGame", "TronGame\TronGame.csproj", "{4D2A306B-2B35-4BFF-9065-1A9064377496}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TronAdventure", "TronAdventure\TronAdventure.csproj", "{D4F0AC4C-C58F-4DB3-9C7B-BBC2582B2F34}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 5
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://tfs05.codeplex.com/
+		SccProjectUniqueName0 = SensorTest\\SensorTest.csproj
+		SccProjectName0 = SensorTest
+		SccLocalPath0 = SensorTest
+		SccProjectUniqueName1 = SensorWpf\\SensorWpf.csproj
+		SccProjectName1 = SensorWpf
+		SccLocalPath1 = SensorWpf
+		SccProjectUniqueName2 = TronAdventure\\TronAdventure.csproj
+		SccProjectName2 = TronAdventure
+		SccLocalPath2 = TronAdventure
+		SccProjectUniqueName3 = TronGame\\TronGame.csproj
+		SccProjectName3 = TronGame
+		SccLocalPath3 = TronGame
+		SccLocalPath4 = .
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72A4B667-D141-4A11-8EE2-0EE7F6C468BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72A4B667-D141-4A11-8EE2-0EE7F6C468BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72A4B667-D141-4A11-8EE2-0EE7F6C468BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72A4B667-D141-4A11-8EE2-0EE7F6C468BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B715A1F-6720-47F9-AFC1-835E4839AEDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B715A1F-6720-47F9-AFC1-835E4839AEDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B715A1F-6720-47F9-AFC1-835E4839AEDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B715A1F-6720-47F9-AFC1-835E4839AEDD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D2A306B-2B35-4BFF-9065-1A9064377496}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D2A306B-2B35-4BFF-9065-1A9064377496}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D2A306B-2B35-4BFF-9065-1A9064377496}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D2A306B-2B35-4BFF-9065-1A9064377496}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4F0AC4C-C58F-4DB3-9C7B-BBC2582B2F34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4F0AC4C-C58F-4DB3-9C7B-BBC2582B2F34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4F0AC4C-C58F-4DB3-9C7B-BBC2582B2F34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4F0AC4C-C58F-4DB3-9C7B-BBC2582B2F34}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
