@@ -1,4 +1,5 @@
-#Old code migrated from Codeplex - some stuffs may be obsolete.
+# parental advisory 
+## Old code migrated from Codeplex for history preservation - some stuff may be obsolete or non functionnal
 
 # sensorwpf
 WPF Wrapper for Windows 7 Sensor API (Codeplex migration)
